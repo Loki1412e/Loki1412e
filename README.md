@@ -5,7 +5,7 @@
   <img src="https://avatars.githubusercontent.com/ptitmorceaux" alt="Profile Picture" width="200px"/>
 </div> -->
 
-# Hello! 👋
+## Hello! 👋
 
 Thanks for visiting this profile.  
 My **real GitHub account** is here: [ptitmorceaux](https://github.com/ptitmorceaux/)
